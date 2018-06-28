@@ -1,0 +1,19 @@
+{
+    "name": "whalephp/dbuilder",
+    "description": "PHP data builder",
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/whalephp/DBuilder",
+    "type": "library",
+    "keywords": ["DBuilder","whalephp"],
+    "authors": [
+        {
+            "name": "qw_xingzhe",
+            "email": "1243463730@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "whalephp\\": "src"
+        }
+    }
+}
